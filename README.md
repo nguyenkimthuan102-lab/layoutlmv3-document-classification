@@ -2,9 +2,9 @@
 Phân loại tài liệu trên dataset RVL-CDIP với kiến trúc LayoutLMv3
 
 Cấu trúc thư mục:
--Web: Demo web với gradio
--Document_AI: Chứa file cài đặt, training, test của LayoutLMv3.
--Baseline: Chứa file training 2 model baseline: ResNet và BERT (folder code chứa code tiền xử lý cho 2 model và file "baseline_datasets" để đọc dữ liệu và cấp dữ liệu cho model khi train)
++ Web: Demo web với gradio
++ Document_AI: Chứa file cài đặt, training, test của LayoutLMv3.
++ Baseline: Chứa file training 2 model baseline: ResNet và BERT (folder code chứa code tiền xử lý cho 2 model và file "baseline_datasets" để đọc dữ liệu và cấp dữ liệu cho model khi train)
 
 Lưu ý: Code chạy trên gg colab, demo chạy trên local
 
