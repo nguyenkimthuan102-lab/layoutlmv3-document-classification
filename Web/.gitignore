@@ -1,0 +1,14 @@
+# Chặn môi trường ảo
+venv_doc_ai/
+
+# Chặn checkpoint và trọng số mô hình nặng
+checkpoint-*/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Chặn cache rác của Gradio và Python
+.gradio/
+__pycache__/
+*.pyc
